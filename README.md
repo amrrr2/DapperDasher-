@@ -11,7 +11,49 @@ A 2D platformer game where Scarfy jumps over nebulas and collects coins.
 - Raylib: For rendering and audio.
 - C++ Compiler (e.g., g++).
 - raygui: For Graphical User Interface
-- 
+  
+## How to Play
+Controls:
+
+
+
+
+
+Press SPACE to jump (double jump supported).
+
+
+
+
+Press ESC to return to the main menu.
+
+
+
+Objective:
+
+
+
+
+
+Dodge nebulas to earn +1 point each.
+
+
+
+Collect coins for +5 points each.
+
+
+
+Reach the finish line to win!
+
+
+
+Difficulty:
+
+
+
+
+
+Choose from Easy, Medium, or Hard in the main menu to adjust nebula speed.
+
 ## Vision and Inspiration
 Dapper Dasher is a love letter to the golden era of 2D platformers, drawing inspiration from timeless classics like Super Mario Bros. and Sonic the Hedgehog. The project was born out of a desire to blend retro charm with modern gameplay finesse, delivering a seamless experience that resonates with both nostalgic gamers and new players. Our vision was to craft a game that captures the thrill of precision platforming while introducing dynamic mechanics that keep every run fresh and exhilarating. With Scarfy as the protagonist, we aimed to create a character that feels agile and responsive, embodying the spirit of a daring adventurer in a pixel-perfect world.
 
@@ -45,3 +87,69 @@ The development of Dapper Dasher was a journey of balancing creativity with tech
 
 Player Experience and Impact
 At its core, Dapper Dasher is designed to evoke a sense of joy and accomplishment. Every element—from the satisfying clink of a coin collection to the adrenaline rush of narrowly dodging a nebula—is crafted to keep players engaged. The retro pixel-art aesthetic, paired with a carefully curated soundtrack and sound effects, creates an atmosphere that feels both nostalgic and fresh. Whether you’re a casual player looking for a quick gaming fix or a seasoned platformer fan chasing a perfect run, Dapper Dasher delivers an experience that’s as rewarding as it is challenging. Our ultimate goal is to inspire players to push their limits, celebrate their victories, and lose themselves in the timeless thrill of platforming.
+
+Contributing
+
+We welcome contributions to Dapper Dasher! To contribute:
+
+
+
+
+
+Fork the repository.
+
+
+
+Create a new branch (git checkout -b feature/YourFeature).
+
+
+
+Make your changes and commit (git commit -m "Added YourFeature").
+
+
+
+Push to your fork (git push origin feature/YourFeature).
+
+
+
+Open a Pull Request with a detailed description of your changes.
+
+Areas to contribute:
+
+
+
+
+
+Bug fixes and performance optimizations.
+
+
+
+New features (e.g., power-ups, leaderboards).
+
+
+
+Additional levels or themes.
+
+Future Roadmap
+
+
+
+
+
+Power-Ups: Add temporary boosts like speed or shields to enhance gameplay strategy.
+
+
+
+Online Leaderboards: Implement global leaderboards for competitive play.
+
+
+
+New Environments: Introduce themed levels (e.g., forest, desert) with unique obstacles.
+
+
+
+Mobile Port: Optimize for touch controls to bring Dapper Dasher to mobile devices.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
