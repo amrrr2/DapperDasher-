@@ -12,7 +12,7 @@ A 2D platformer game where Scarfy jumps over nebulas and collects coins.
 - C++ Compiler (e.g., g++).
 - raygui: For Graphical User Interface
 - 
-##Vision and Inspiration
+## Vision and Inspiration
 Dapper Dasher is a love letter to the golden era of 2D platformers, drawing inspiration from timeless classics like Super Mario Bros. and Sonic the Hedgehog. The project was born out of a desire to blend retro charm with modern gameplay finesse, delivering a seamless experience that resonates with both nostalgic gamers and new players. Our vision was to craft a game that captures the thrill of precision platforming while introducing dynamic mechanics that keep every run fresh and exhilarating. With Scarfy as the protagonist, we aimed to create a character that feels agile and responsive, embodying the spirit of a daring adventurer in a pixel-perfect world.
 
 Technical Highlights and Unique Features
