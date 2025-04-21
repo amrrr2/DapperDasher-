@@ -88,7 +88,7 @@ The development of Dapper Dasher was a journey of balancing creativity with tech
 Player Experience and Impact
 At its core, Dapper Dasher is designed to evoke a sense of joy and accomplishment. Every element—from the satisfying clink of a coin collection to the adrenaline rush of narrowly dodging a nebula—is crafted to keep players engaged. The retro pixel-art aesthetic, paired with a carefully curated soundtrack and sound effects, creates an atmosphere that feels both nostalgic and fresh. Whether you’re a casual player looking for a quick gaming fix or a seasoned platformer fan chasing a perfect run, Dapper Dasher delivers an experience that’s as rewarding as it is challenging. Our ultimate goal is to inspire players to push their limits, celebrate their victories, and lose themselves in the timeless thrill of platforming.
 
-Contributing
+## Contributing
 
 We welcome contributions to Dapper Dasher! To contribute:
 
@@ -130,7 +130,7 @@ New features (e.g., power-ups, leaderboards).
 
 Additional levels or themes.
 
-Future Roadmap
+## Future Roadmap
 
 
 
